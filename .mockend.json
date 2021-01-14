@@ -1,1 +1,44 @@
-
+{
+    "artist": [
+      {
+        "id": "1",
+        "title": "Indian Ocean",
+        "genre": "Music",
+        "goal": "2500",
+        "collected": "2000",
+        "imageURL": "https://img.etimg.com/thumb/msid-50682600,width-650,imgsize-332270,,resizemode-4,quality-100/.jpg"
+      },
+      {
+        "id": "2",
+        "title": "Led Zeppelin",
+        "genre": "Music",
+        "goal": "5000",
+        "collected": "1000",
+        "imageURL": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2014/03/13/14/led-zeppelin2.jpg"
+      },
+      {
+        "id": "3",
+        "title": "Queen",
+        "genre": "Music",
+        "goal": "5000",
+        "collected": "500",
+        "imageURL": "https://www.rollingstone.com/wp-content/uploads/2018/06/queen-news-of-the-world-opener-c5bda6ed-0bdf-42c0-8d93-7b29ec5c4259.jpg"
+      },
+      {
+        "id": "4",
+        "title": "Nirvana",
+        "genre": "Music",
+        "goal": "2000",
+        "collected": "1000",
+        "imageURL": "https://classicalbumsundays.com/wp-content/uploads/2011/09/rs-nirvana-e9e22e4b-f7d9-4fc7-bd94-23c30084ce94.jpg"
+      },
+      {
+        "id": "5",
+        "title": "Agnee",
+        "genre": "Music",
+        "goal": "5000",
+        "collected": "3000",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/e/e8/Agnee_%28album%29.jpg"
+      }
+    ]
+  }
